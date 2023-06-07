@@ -92,7 +92,7 @@ def rename(fi):
         if fi[pos] == '[' and fi[pos + 1: pos + 3].isnumeric():
             if fi[pos + 4] == '[':
                 fi = fi.replace(fi[pos: pos + 4], f'{fi[pos: pos + 4]} ')
-            else:
+            elif fi[pos + 4] == '-':
                 fi = fi.replace(fi[pos: pos + 5], f'{fi[pos: pos + 4]} ')
             break
         pos += 1
