@@ -90,16 +90,15 @@ def rename(fi):
         pos += 1
 
     # [NN]END -> [NN] END
-    pos = -1
-    for i in range(99):
-        pos = fi.find('[{:>02d}]'.format(i))
-        if pos != -1:
+    pos = 0
+    while pos != len(fi) - 1:
+        if fi[pos] == '[' and fi[pos + 1: pos + 3].isnumeric():
+            if fi[pos + 4] == '[':
+                fi = fi.replace(fi[pos: pos + 4], f'{fi[pos: pos + 4]} ')
+            else:
+                fi = fi.replace(fi[pos: pos + 5], f'{fi[pos: pos + 4]} ')
             break
-    if pos != -1 and fi[pos + 4] != ' ':
-        if fi[pos + 4] == '[':
-            fi = fi.replace(fi[pos: pos + 4], f'{fi[pos: pos + 4]} ')
-        else:
-            fi = fi.replace(fi[pos: pos + 5], f'{fi[pos: pos + 4]} ')
+        pos += 1
 
     # NNNNxCCCC -> CCCCp
     pos = 4
