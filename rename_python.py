@@ -23,14 +23,11 @@ def rename(fi):
         fi = fi.replace(k, v)
 
     # SN -> S0N
-    if fi.find('S') != -1:
-        pos = -1
-        for i in range(2, 10):
-            pos = fi.find(f'S{i}')
-            if pos != -1:
-                break
-        if pos != -1:
-            fi = fi.replace(f'S{i}', 'S{:>02d}'.format(i))
+    pos = 0
+    while pos != len(fi) -1:
+        if fi[pos] == 'S' and fi[pos + 1:pos + 2].isnumeric() and not fi[pos + 1: pos + 3].isnumeric():
+            fi = fi.replace(fi[pos:pos+2], 'S{:>02d}'.format(int(fi[pos + 1:pos + 2])))
+        pos += 1
 
     # S0NO -> S0N 0
     pos = 0
