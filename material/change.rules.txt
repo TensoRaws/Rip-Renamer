@@ -1,0 +1,24 @@
+N -> NUMBER
+SE -> NCOP/NCED/OVA/SP
+
+.srt/.ass -> DEL
+
+S1/S01 -> REM
+SN(N >= 2) -> S0N
+- NN -> [NN]
+
+[NN]END -> [NN] END
+[SE]END -> [SE] END
+
+
+ENN -> [NN]
+SE -> [SE]
+SEN/SENN -> [SENN]
+
+SNN+? -> SNN [?]
+
+结尾
+NNNNxCCCC -> CCCCp
+HEVC-Main10 -> HEVC-10bit
+HEVC Main10 -> HEVC-10bit
+HEVC 10bit -> HEVC-10bit

@@ -1,0 +1,2047 @@
+卷 HC550_2CJDS92J 的文件夹 PATH 列表
+卷序列号为 588C-F51A
+M:.
+│  Anime_2160p - 快捷方式.lnk
+│  Sword.Art.Online.the.Movie.Progressive.Aria.of.a.Starless.Night.2021.2160p.HEVC.10bit.TrueHD7.1.keprice@SRVFI-Raws.mkv
+│  tree.txt
+│  
+├─Cyberpunk.Edgerunners.S01.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws
+│      Cyberpunk.Edgerunners.S01E01.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E02.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E03.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E04.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E05.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E06.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E07.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E08.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E09.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      Cyberpunk.Edgerunners.S01E10.2160p.WEBrip.x265.DDP5.1-SRVFI-Raws.mkv
+│      
+├─Drifting.Home.2022.2160p.HEVC-10bit.DTS-HD.SRVFI-Raws
+│      Drifting.Home.2022.2160p.HEVC-10bit.DTS-HD.SRVFI-Raws.mkv
+│      Drifting.Home.2022.2160p.HEVC-10bit.DTS-HD.SRVFI-Raws.SweetSubchs.ass
+│      
+├─EVANGELION.1.11.YOU.ARE.(NOT).ALONE.2007.2160p.HEVC.TrueHD.6.1-SRVFI-Raws
+│      EVANGELION.1.11.YOU.ARE.(NOT).ALONE.2007.2160p.HEVC.TrueHD.6.1-SRVFI-Raws.mkv
+│      
+├─EVANGELION.2.22.YOU.CAN.(NOT).ADVANCE.2009.2160p.HEVC.DTS-HD.MA.6.1-SRVFI-Raws
+│      EVANGELION.2.22.YOU.CAN.(NOT).ADVANCE.2009.2160p.HEVC.DTS-HD.MA.6.1-SRVFI-Raws.mkv
+│      
+├─My.Neighbour.Totoro.1988.2160p.HEVC-10bit.DTS-HD.SRVFI-Raws
+│      My.Neighbour.Totoro.1988.2160p.HEVC-10bit.DTS-HD.SRVFI-Raws.mkv
+│      
+├─Ryu.To.Sobakasu.No.Hime.2021.2160p.HEVC.10bit.TrueHD.Atoms-SRVFI-Raws
+│      Ryu.To.Sobakasu.No.Hime.2021.2160p.HEVC.10bit.TrueHD.Atoms-SRVFI-Raws.mkv
+│      
+├─Summer.War.2009.2160p.BluRay.HEVC.10bit.DTS-HD.MA-SRVFI-Raws
+│      Summer.War.2009.2160p.BluRay.HEVC.10bit.DTS-HD.MA-SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] 5 Centimeters Per Second [2160P HEVC Main10 FLAC]
+│      5.Centimeters.Per.Second.2007.2160p.HEVC.Main10.FLAC.5.1-keprice@SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] 86 Eighty-Six S1+OAD [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] 86 Eighty-Six [01] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [02] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [03] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [04] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [05] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [06] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [07] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [08] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [09] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [10] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [11] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [12] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [13] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [14] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [15] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [16] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [17] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [18] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [19] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [20] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [21] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [22] [2160p HEVC-10bit Flac].mkv
+│  │  [SRVFI-Raws] 86 Eighty-Six [23] [2160p HEVC-10bit Flac].mkv
+│  │  
+│  └─OAD
+│          [SRVFI-Raws] 86 Eighty-Six S00E01.mkv
+│          [SRVFI-Raws] 86 Eighty-Six S00E02.mkv
+│          [SRVFI-Raws] 86 Eighty-Six S00E03.mkv
+│          
+├─[SRVFI-Raws] A Lull in the Sea [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] A Lull in the Sea S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E14 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E15 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E16 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E17 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E18 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E19 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E20 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E21 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E22 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E23 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E24 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E25 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] A Lull in the Sea S01E26 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─NC OP&ED
+│          [SRVFI-Raws] A Lull in the Sea S01 NCED1 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] A Lull in the Sea S01 NCED2 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] A Lull in the Sea S01 NCED3 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] A Lull in the Sea S01 NCOP1 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] A Lull in the Sea S01 NCOP2 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] A Lull in the Sea S01 NCOP3 [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] A Silent Voice 2016 2160p HEVC FLAC 5.1
+│      A Silent Voice 2016 2160p HEVC FLAC 5.1-SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Adachi to Shimamura [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Adachi to Shimamura 01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Adachi to Shimamura 12 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Angel Beats! [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Angel Beats! S01 Another Epilogue [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Angel Beats! S01E14 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─Bonus
+│          [SRVFI-Raws] Angel Beats! S01 NCOP [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E01 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E02 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E03 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E04 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E05 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E06 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E07-8 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E08 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E11 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E12 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E13 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Angel Beats! S01E14 NCED [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Aria S1-S3+Arietta+Avvenire [1080p HEVC-10bit FLAC]
+│  ├─Aria the Animation
+│  │  │  [SRVFI-Raws] Aria the Animation 01 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 02 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 03 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 04 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 05 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 06 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 07 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 08 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 09 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 10 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 11 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 12 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Animation 13 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  
+│  │  └─Extra
+│  │          Aria the Animation Apprentice Undines Interview P1 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Apprentice Undines Interview P2 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation NCED [1080p HEVC-10bit FLAC2.0].mkv
+│  │          Aria the Animation Primas Interview P1 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Primas Interview P2 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P1 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P2 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P3 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P4 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P5 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation Sato-Junichi s Venice I m sorry P6 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Animation US Trailer [480p HEVC-10bit AC-3].mkv
+│  │          
+│  ├─Aria the Arietta
+│  │      [SRVFI-Raws] Aria the Arietta [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │      
+│  ├─Aria the Avvenire
+│  │  │  [SRVFI-Raws] Aria the Avvenire 1 [2160p HEVC-10bit FLAC5.1 EN+JP].mkv
+│  │  │  [SRVFI-Raws] Aria the Avvenire 2 [2160p HEVC-10bit FLAC5.1 EN+JP].mkv
+│  │  │  [SRVFI-Raws] Aria the Avvenire 3 [2160p HEVC-10bit FLAC5.1 EN+JP].mkv
+│  │  │  
+│  │  └─Extra
+│  │          Aira the Avvenire 1 Opening Day On-Stage Introductions [1080p HEVC-10bit FLAC].mkv
+│  │          Aira the Avvenire 1 Roundtable [1080p HEVC-10bit FLAC].mkv
+│  │          Aira the Avvenire 1 Visual Commentary [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 1 NCED [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 2 Roundtable [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 2 Sound Novel Anya Dostoyevskaya [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 2 Sound Novel Azusa B. McLaren [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 2 Thanks Stage Greeting [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 2 Visual Commentary [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 3 Roundtable [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 3 Sound Novel After the Party-Aino Ai [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 3 Sound Novel We are Happy-the Boys [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Avvenire 3 Visual Commentary [1080p HEVC-10bit FLAC].mkv
+│  │          
+│  ├─Aria the Natural
+│  │  │  [SRVFI-Raws] Aria the Natural 01 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 02 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 03 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 04 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 05 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 06 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 07 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 08 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 09 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 10 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 11 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 12 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 13 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 14 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 15 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 16 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 17 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 18 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 19 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 20 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 21 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 22 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 23 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 24 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 25 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  [SRVFI-Raws] Aria the Natural 26 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │  │  
+│  │  └─Extra
+│  │          Aria the Natural Aira and the World of Sound Interview [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Aira Company Roundtable [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Cast Discussion on Aira the Animation [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Cast Discussion on Aira the Natural P1 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Cast Discussion on Aira the Natural P2 [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Director Discussion on Aria the Natural [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural Director Junichi Sato Interview [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural English Voice Actor 1 [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Natural English Voice Actor 2 [1080p HEVC-10bit FLAC].mkv
+│  │          Aria the Natural Himeya Roundtable [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural NCED 1 [1428x1068 HEVC-10bit FLAC].mkv
+│  │          Aria the Natural NCED 2 [1428x1068 HEVC-10bit FLAC].mkv
+│  │          Aria the Natural Orange Planet Roundtable [480p HEVC-10bit AC-3].mkv
+│  │          Aria the Natural The Miracle of Encountering You Again [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│  │          Aria the Natural Yui Makino Interview [480p HEVC-10bit AC-3].mkv
+│  │          
+│  └─Aria the Origination
+│      │  [SRVFI-Raws] Aria the Origination 01 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 02 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 03 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 04 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 05 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 05.5 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 06 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 07 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 08 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 09 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 10 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 11 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 12 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  [SRVFI-Raws] Aria the Origination 13 [1080p HEVC-10bit FLAC JP2.0+EN5.1].mkv
+│      │  
+│      └─Extra
+│              Aria the Origination Aiming for that Glorious Victory [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination Alice s Ghost Story [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination Cast Reflections on [480p HEVC-10bit AC3].mkv
+│              Aria the Origination Director Sato s Reflections on [480p HEVC-10bit AC3].mkv
+│              Aria the Origination Little Red Riding Hood Akatsukin [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination Pajama Party [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination SatoJun s Venice I m Sorry P1 [480p HEVC-10bit AC3].mkv
+│              Aria the Origination SatoJun s Venice I m Sorry P2 [480p HEVC-10bit AC3].mkv
+│              Aria the Origination The Shame of Neo-Venezia [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination The Traghetto Epilogue [1080p HEVC-10bit FLAC].mkv
+│              Aria the Origination Together With Spring [1080p HEVC-10bit FLAC].mkv
+│              
+├─[SRVFI-Raws] Aria the Benedizione [2160p HEVC-10bit FLAC]
+│      Aria the Benedizione Cast Redubbing Video [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Completion Screening Theater Greeting [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Long PV [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Mini Game Video 1 [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Mini Game Video 2 [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Mini Game Video 3 [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Mini Game Video 4 [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Mini Game Video 5 [1080p HEVC-10bit FLAC].mkv
+│      Aria the Benedizione Visiting Kitaichi Venetian Art Museum in Otaru [1080p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Aria the Benedizione [2160p HEVC-10bit FLAC5.1+2.0].mkv
+│      
+├─[SRVFI-Raws] Aria the Crepuscolo [2160p HEVC-10bit FLAC]
+│      Aria the Crepuscolo Advance Screening Stage Greeting [1080p HEVC-10bit FLAC].mkv
+│      Aria the Crepuscolo Cast Redubbing Video [1080p HEVC-10bit FLAC].mkv
+│      Aria the Crepuscolo Opening Ceremony Stage Greeting [1080p HEVC-10bit FLAC].mkv
+│      Aria the Crepuscolo Series Special PV [1080p HEVC-10bit FLAC].mkv
+│      Aria the Crepuscolo Songs PV [1080p HEVC-10bit FLAC].mkv
+│      Aria the Crepuscolo Special PV With Theme Song Echoes [1080p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Aria the Crepuscolo [2160p HEVC-10bit FLAC5.1+2.0].mkv
+│      
+├─[SRVFI-Raws] Assault Lily Bouquet [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Assault Lily Bouquet S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─Bonus
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCED1 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCED2 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCED3 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCED4 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCOP1 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Assault Lily Bouquet S01 NCOP2 [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Asteriod in Love [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Asteriod in Love S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCOP01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCOP02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Asteriod in Love S01NCOP03 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Bloom into You [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Bloom into You EP01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You EP13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bloom into You SP [1080p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Bocchi the Rock! [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Bocchi the Rock! S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Bocchi the Rock! S01E12 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Boku ga Aishita Subete no Kimi e [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Kimi wo Aishita Hitori no Boku e [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Bokutachi no Remake [2560×1440 HEVC-Main10 FLAC]
+│      [SRVFI-Raws] Bokutachi no Remake [01][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [02][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [03][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [04][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [05][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [06][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [07][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [08][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [09][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [10][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [11][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Bokutachi no Remake [12][2560×1440 HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Cells at Work [2160P HEVC Main10 FLAC]
+│      Cells at Work S01E01 Pneumococcus [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E02-Scrape Wound [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E03-Influenza [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E04-Food Poisoning [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E05-Cedar Pollen Allergy [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E06-Erythroblasts and Myelocytes [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E07-Cancer Cells [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E08-Blood Circulation [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E09-Thymocyte [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E10-Staphylococcus Aureus [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E11-Heatstroke [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E12-Hemorrhagic Shock P1 [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E13-Hemorrhagic Shock P2 [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01E14 [SP]-The Common Cold [2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01ED-CheerS [ClariS][2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Cells at Work S01OP-Mission! Ken, Yasushi, Daiichi, Ichi [Cells at work!][2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      
+├─[SRVFI-Raws] Children who Chase Lost Voices from Deep Below 2011 2160p HEVC DTS-HD MA 5.1
+│      Children who Chase Lost Voices from Deep Below 2011 2160p HEVC DTS-HD MA 5.1-SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Clannad & Clannad ~After Story~ [2160p HEVC-10bit FLAC]
+│  ├─Clannad 2007
+│  │      [SRVFI-Raws] Clannad EP01 On a Slope with Falling Cherry Blossoms [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP02 The First Step [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP03 Once More After the Tears [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP04 Looking for Friends [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP05 Scene with Sculpures [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP06 The Sisters Founder s Festival [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP07 Star-Shaped Feelings [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP08 The Breeze Fading at Dusk [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP09 Until the End of the Dream [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP10 The Girl Genius Challenge [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP11 Afterschool Rhapsody [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP12 Hidden World [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP13 A Garden of Memories [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP14 Theory of Everything [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP15 A Problematic Matter [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP16 3 on 3 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP17 An Empty Space [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP18 The Secret Plan of Reversal [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP19 A New Life [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP20 The Secret Past [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP21 Preparing for the School Festival [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP22 Two Shadows [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP23 It Happend During Summer Vacation [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] Clannad EP24 Another World - Tomoyo Arc [2160p HEVC-10bit FLAC].mkv
+│  │      
+│  └─Clannad ~After Story~ 2008
+│          [SRVFI-Raws] Clannad After Story EP01 A Farewell to the End of Summer [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP02 In Search of False Love [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP03 Hearts Out of Synch [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP04 With the Same Smile as That Day [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP05 The Season You Were There [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP06 Forever by Your Side [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP07 Where She Belongs [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP08 A Courageous Battle [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP09 Along the Path [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP10 A Season of Beginnings [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP11 The Founder s Day Festival Promise [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP12 A Sudden Happening [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP13 Graduation [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP14 A New Family [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP15 In the Remains of Summer [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP16 White Darkness [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP17 Summner Time [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP18 The Ends of the Earth [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP19 The Road Home [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP20 The Mischievous Sea Breeze [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP21 The End of the World [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP22 A Small Hand [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP23 Events From a Year Ago [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP24 Kyou Arc [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Clannad After Story EP25 Under the Green Tree [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Cuckoo no Iinazuke [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E14 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E15 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E16 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E17 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E18 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E19 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E20 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E21 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E22 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E23 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01E24 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01NCED1 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01NCED2 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01NCOP1 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Cuckoo no Iinazuke S01NCOP2 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] DARLING in the FRANXX [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] DARLING in the FRANXX [01][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [02][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [03][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [04][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [05][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [06][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [07][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [08][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [09][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [10][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [11][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [12][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [13][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [14][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [15][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [16][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [17][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [18][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [19][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [20][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [21][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [22][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [23][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] DARLING in the FRANXX [24][2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Date A Live S1-S3+Movie+SideStory [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Date A Bullet EP01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Bullet EP02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live Mayuri Judgement [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S02E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Date A Live S03E12 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─Bonus
+│          [SRVFI-Raws] Date A Bullet NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Bullet NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Bullet NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED08 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED09 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCED10 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S01NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCOP02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCOP03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCOP04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S02NCOPSP [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S03NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Date A Live S03NCOP [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Date A Live S4 [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Date a Live S04 NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04 NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Date a Live S04E12 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Engage Kiss [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Engage Kiss S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Engage Kiss S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Eromanga Sensei [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Eromanga Sensei S01 OVA01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01 OVA02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Eromanga Sensei S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─NC OP&ED
+│          [SRVFI-Raws] Eromanga Sensei S01 NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCOP02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCOP03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCOP04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Eromanga Sensei S01 NCOP05 [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] From the New World [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Shinsekai Yori [01][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [02][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [03][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [04][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [05][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [06][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [07][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [08][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [09][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [10][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [11][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [12][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [13][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [14][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [15][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [16][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [17][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [18][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [19][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [20][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [21][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [22][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [23][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [24][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      [SRVFI-Raws] Shinsekai Yori [25][2160p HEVC-10bit FLAC 2.0 JP+EN].mkv
+│      
+├─[SRVFI-Raws] Gin no Saji S1+S2 [2160P HEVC Main10 FLAC]
+│  ├─[SRVFI-Raws] Gin no Saji S1
+│  │      [SRVFI-Raws] Gin no Saji [01][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [02][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [03][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [04][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [05][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [06][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [07][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [08][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [09][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [10][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Gin no Saji [11][2160p HEVC-Main10 FLAC].mkv
+│  │      
+│  └─[SRVFI-Raws] Gin no Saji S2
+│          [SRVFI-Raws] Gin no Saji S2 [01][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [02][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [03][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [04][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [05][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [06][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [07][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [08][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [09][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [10][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Gin no Saji S2 [11][2160p HEVC-Main10 FLAC].mkv
+│          
+├─[SRVFI-Raws] GIRLS und PANZER [2160p HEVC-10bit DTS]
+│  │  [SRVFI-Raws] GIRLS und PANZER das FINALE Part1 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER das FINALE Part2 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER das FINALE Part3 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER Film [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E01 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E02 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E03 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E04 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E05 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E06 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E07 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E08 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E09 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E10 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E11 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E12 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E13 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER S01E14 [2160p HEVC-10bit DTS].mkv
+│  │  [SRVFI-Raws] GIRLS und PANZER This is the Real Anzio Battle [2160p HEVC-10bit DTS].mkv
+│  │  
+│  ├─NC OP&ED
+│  │      [SRVFI-Raws] GIRLS und PANZER Film NCED01 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER Film NCED02 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER Film NCOP [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED04 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED05 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED06 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED07 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED08 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED09 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED10 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED11 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED12 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCED13 [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER S01NCOP [2160p HEVC-10bit FLAC].mkv
+│  │      [SRVFI-Raws] GIRLS und PANZER This is the Real Anzio Battle NCED [2160p HEVC-10bit FLAC].mkv
+│  │      
+│  └─SP
+│          [SRVFI-Raws] GIRLS und PANZER das FINALE Part2 Taiyaki War [2160p HEVC-10bit DTS].mkv
+│          [SRVFI-Raws] GIRLS und PANZER das FINALE Part2 The Panzer Course [1080p HEVC-10bit DTS].mkv
+│          [SRVFI-Raws] GIRLS und PANZER das FINALE Part3 Daikon War [2160p HEVC-10bit DTS].mkv
+│          [SRVFI-Raws] GIRLS und PANZER das FINALE Part3 The Panzer Course [1080p HEVC-10bit DTS].mkv
+│          [SRVFI-Raws] GIRLS und PANZER Film OVA [2160p HEVC-10bit DTS].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA1 Water War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA2 Survival War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA3 School Ship War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA4 Ankou War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA5 Snow War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 OVA6 Banquet War [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 1 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 2 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 3 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 4 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 5 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER S01 The Panzer Course 6 [1080p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] GIRLS und PANZER This is the Real Anzio Battle The Panzer Course [1080p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Haiyore! Nyaruko-san S1+S2+OVA [2160p HEVC Main10 FLAC]
+│  ├─[SRVFI-Raws] Haiyore! Nyaruko-san
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [01][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [02][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [03][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [04][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [05][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [06][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [07][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [08][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [09][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [10][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [11][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [12][2160p HEVC-Main10 FLAC].mkv
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san [OVA][2160p HEVC-Main10 FLAC].mkv
+│  │      
+│  ├─[SRVFI-Raws] Haiyore! Nyaruko-san F
+│  │      [SRVFI-Raws] Haiyore! Nyaruko-san F [2160p HEVC-Main10 FLAC].mkv
+│  │      
+│  └─[SRVFI-Raws] Haiyore! Nyaruko-san W
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [01][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [02][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [03][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [04][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [05][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [06][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [07][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [08][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [09][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [10][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [11][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [12][2160p HEVC-Main10 FLAC].mkv
+│          [SRVFI-Raws] Haiyore! Nyaruko-san W [OVA][2160p HEVC-Main10 FLAC].mkv
+│          
+├─[SRVFI-Raws] Happy Sugar Life [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Happy Sugar Life S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E01 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E02 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E03 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E04 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E05 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E06 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E07 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E08 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E09 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E10 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E11 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01E12 [2160p HEVC-10bit FLAC].sc.ass
+│      [SRVFI-Raws] Happy Sugar Life S01NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Happy Sugar Life S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] High School Fleet [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] High School Fleet Movie [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [01][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [02][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [03][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [04][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [05][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [06][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [07][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [08][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [09][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [10][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [11][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [12][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [13 OVA01][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] High School Fleet [14 OVA02][2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Himouto Umaru Chan OVA1+2 [1080p HEVC Main10 FLAC]
+│      Himouto Umaru Chan OVA1 [1080p HEVC Main10 FLAC].mkv
+│      Himouto Umaru Chan OVA2 [1080p HEVC Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Hyouka [2160P HEVC-Main10 FLAC]
+│      [SRVFI-Raws] Hyouka [01][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [02][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [03][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [04][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [05][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [06][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [07][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [08][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [09][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [10][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [11.5][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [11][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [12][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [13][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [14][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [15][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [16][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [17][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [18][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [19][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [20][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [21][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Hyouka [22][2160P HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Is the Order a Rabbit [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Is the Order a Rabbit S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCED12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Is the Order a Rabbit S02NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [2160P HEVC-10bit FLAC]
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [01] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [02] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [03] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [04] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [05] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [06] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [07] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [08] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [09] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [10] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [11] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kaifuku Jutsushi no Yarinaoshi [12] [2160P HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Kantai Colloection + Movie [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Kantai Collection Movie [2160p HEVC-10bit FLAC5.1].mkv
+│      [SRVFI-Raws] Kantai Collection NCED Fubuki [2160p HEVC-10bit TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection NCOP Miiro [2160p HEVC-10bit TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E01 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E02 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E03 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E04 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E05 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E06 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E07 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E08 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E09 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E10 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E11 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      [SRVFI-Raws] Kantai Collection S01E12 [2160p HEVC-10bit FLAC+TrueHD].mkv
+│      
+├─[SRVFI-Raws] Kobayashi-san Chi no Maid Dragon [2160p HEVC-10bit FLAC TrueHD]
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 01 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 02 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 03 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 04 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 05 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 06 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 07 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 08 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 09 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 10 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 11 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 12 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 13 [2160p HEVC-10bit FLAC TrueHD].mkv
+│      [SRVFI-Raws] Kobayashi-san Chi no Maid Dragon - 14 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] KonoSuba [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01 NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01 NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02 NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02 NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Konosuba God s Blessing on This Wonderful World S02E11 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Kotonoha no Niwa 2013 2160p HEVC DTS-HD MA 5.1
+│      Kotonoha no Niwa 2013 2160p HEVC DTS-HD MA 5.1-SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Kyokai no Kanata [2160p HEVC Main10 FLAC]
+│      [SRVFI-Raws] Kyoukai no Kanata I ll Be Here Kako Hen [BDrip 2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Kyoukai no Kanata I ll Be Here Mirai Hen [BDrip 2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] LoveLive! School Idol Project S1 [2160p HEVC Main10 FLAC]
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 01 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 02 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 03 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 04 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 05 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 06 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 07 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 08 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 09 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 10 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 11 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 12 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - 13 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] LoveLive! School Idol Project S1 - OVA [2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] LoveLive! SuperStar!! [2160p HEVC Main10 FLAC]
+│      [SRVFI-Raws] Love Live! Superstar!! [01][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [02][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [03][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [04][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [05][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [06][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [07][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [08][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [09][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [10][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [11][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Love Live! Superstar!! [12][2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Lycoris Recoil [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Lycoris Recoil S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Lycoris Recoil S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─OP & ED
+│          [SRVFI-Raws] Lycoris Recoil S01 NCOP [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E01 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E02 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E03 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E04 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E05 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E06 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E07 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E08 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E09 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E10 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E11 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E12 NCED [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Lycoris Recoil S01E13 NCED [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Made in Abyss Movies 2019-2020 [2160P HEVC Main10 DTS-HD FLAC]
+│      Made.in.Abyss.Dawn.of.the.Deep.Soul.2020.2160p.HEVC.DTS-HD.MA5.1.keprice@SRVFI-Raws.mkv
+│      Made.in.Abyss.Journey.s.Dawn.2019.2160p.HEVC.DTS-HD.MA5.1.keprice@SRVFI-Raws.mkv
+│      Made.in.Abyss.Wandering.Twilight.2019.2160p.HEVC.DTS-HD.MA5.1.keprice@SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Maquia When the Promised Flower Blooms [BDrip 2160p HEVC Main10 TrueHD]
+│      Maquia.When.the.Promised.Flower.Blooms.2018.2160p.HEVC.10bit.TrueHD5.1.SRVFI-Raws.mkv
+│      Maquia.When.the.Promised.Flower.Blooms.2018.2160p.HEVC.10bit.TrueHD5.1.SRVFI-Raws.星空_NF-GL.ass
+│      Maquia.When.the.Promised.Flower.Blooms.2018.2160p.HEVC.10bit.TrueHD5.1.SRVFI-Raws.雪飘_ssnake.ass
+│      
+├─[SRVFI-Raws] Masamune-kun no Revenge [2880×1620 HEVC Main10 FLAC]
+│      [SRVFI-Raws] Masamune-kun no Revenge [01][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [02][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [03][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [04][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [05][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [06][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [07][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [08][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [09][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [10][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [11][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [12][2880×1620 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Masamune-kun no Revenge [13(OAD)][2880×1620 HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Monthly Girls Nozaki-kun [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01 NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01 NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Monthly Girls Nozaki-kun S01E12 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [2160p HEVC Main10 FLAC]
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [01][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [02][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [03][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [04][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [05][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [06][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [07][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [08][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [09][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [10][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [11][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [12][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [13][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [14][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [15][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [16][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [17][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [18][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [19][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [20][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [21][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [22][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [23][2160p HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Mushoku Tensei ~Isekai Ittara Honki Dasu~ [OVA][2160p HEVC Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] One Room S1+S2 [2160p HEVC Main10 FLAC]
+│  ├─[SRVFI-Raws] One Room S1
+│  │      One Room S1 - 01 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 02 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 03 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 04 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 05 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 06 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 07 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 08 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 09 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 10 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 11 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - 12 [2160p HEVC-Main10 FLAC].mkv
+│  │      One Room S1 - OVA [2160p HEVC-Main10 FLAC].mkv
+│  │      
+│  └─[SRVFI-Raws] One Room S2
+│          One Room S2 - 00 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 01 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 02 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 03 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 04 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 05 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 06 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 07 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 08 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 09 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 10 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 11 [2160p HEVC-Main10 FLAC].mkv
+│          One Room S2 - 12 [2160p HEVC-Main10 FLAC].mkv
+│          
+├─[SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S1-S2 [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E14 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E15 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S01E16 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E14 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E15 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai S02E16 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─Creditless OP & ED
+│          [SRVFI-Raws] Ore No Imoto S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED05 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCED08 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP05 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP08 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP09 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP10 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP11 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP12 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP13 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP14 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP15 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP16 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP17 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S01NCOP18 Meruru [2160p HEVC-10bit FLAC].mkv.mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED05 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED08 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED09 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED10 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED11 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED12 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED13 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED14 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED15 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCED16 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP05 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP08 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP09 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP10 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP11 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP12 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP13 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP14 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Ore No Imoto S02NCOP15 [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Plastic Memories [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Plastic Memories S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01NCED [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Plastic Memories S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Puella Magi Madoka Magica the Movies [BDrip 2160p HEVC Main10 DTS FLAC]
+│      Puella.Magi.Madoka.Magica.I.Beginnings.2012.2160p.Bluray.HEVC.DTS-HD.MA.5.1.keprice@SRVFI-Raws.mkv
+│      Puella.Magi.Madoka.Magica.II.Eternal.2012.2160p.Bluray.HEVC.DTS-HD.MA.5.1.keprice@SRVFI-Raws.mkv
+│      Puella.Magi.Madoka.Magica.III.Rebellion.2013.2160p.Bluray.HEVC.DTS-HD.MA.5.1.keprice@SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Sakura Quest [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Sakura Quest S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E14 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E15 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E16 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E17 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E18 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E19 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E20 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E21 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E22 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E23 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E24 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Quest S01E25 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Sakura Trick [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Sakura Trick NCED01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick NCED02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick NCOP [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Sakura Trick S01E12 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] SHADOWS HOUSE S1 [2160p HEVC Main10 FLAC]
+│      [SRVFI-Raws] SHADOWS HOUSE S1E01 [2160p HEVC Main10 FLAC]「シャドーと生き人形」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E02 [2160p HEVC Main10 FLAC]「部屋の外には」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E03 [2160p HEVC Main10 FLAC]「すすによる病」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E04 [2160p HEVC Main10 FLAC]「深夜の見回り」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E05 [2160p HEVC Main10 FLAC] 「“お披露目”」 .mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E06 [2160p HEVC Main10 FLAC]「庭園迷路」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E07 [2160p HEVC Main10 FLAC]「不完全な地図」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E08 [2160p HEVC Main10 FLAC]「手のひらの上」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E09 [2160p HEVC Main10 FLAC]「鳥籠と花」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E10 [2160p HEVC Main10 FLAC]「最後の一対」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E11 [2160p HEVC Main10 FLAC]「黒い飲み物」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E12 [2160p HEVC Main10 FLAC]「おじい様と共にある棟へ」.mkv
+│      [SRVFI-Raws] SHADOWS HOUSE S1E13 [2160p HEVC Main10 FLAC]「シャドー家のために」.mkv
+│      
+├─[SRVFI-Raws] Shirobako [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Shirobako Movie [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E14 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E15 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E16 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E17 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E18 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E19 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E20 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E21 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E22 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E23 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Shirobako S01E24 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─SP OP ED
+│          [SRVFI-Raws] Daisan Hikou Shoujotai (Musani Staff Credit Ver.)[2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Daisan Hikou Shoujotai (Original Staff Credit Ver.)[2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Exodus! (Musani Staff Credit Ver.)[2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Exodus! (Original Staff Credit Ver.)[2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED03 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED04 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED05 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED06 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCED07 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Shirobako S01 NCOP [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Shoujo Shuumatsu Ryokou [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 01 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 02 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 03 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 04 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 05 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 06 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 07 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 08 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 09 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 10 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 11 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Shoujo Shuumatsu Ryokou - 12 [BDRip 2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sing a Bit of Harmony [2021][2160p HEVC 10bit TrueHD5.1]
+│      Sing.a.Bit.of.Harmony.2021.2160p.HEVC.10bit.TrueHD5.1.keprice@SRVFI-Raws.cht-EMBER.srt
+│      Sing.a.Bit.of.Harmony.2021.2160p.HEVC.10bit.TrueHD5.1.keprice@SRVFI-Raws.mkv
+│      讓我聽見愛的歌聲.CatchPlay.zh-Hant.vtt
+│      
+├─[SRVFI-Raws] Sono Bisque Doll wa Koi o Suru [2160P HEVC Main10 FLAC]
+│      Sono Bisque Doll wa Koi o Suru S01E01-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E02-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E03-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E04-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E05-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E06-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E07-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E08-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E09-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E10-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E11-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      Sono Bisque Doll wa Koi o Suru S01E12-[2160P HEVC Main10 FLAC][SRVFI-Raws].mkv
+│      
+├─[SRVFI-Raws] Sounan Desuka [2560×1440 HEVC Main10 FLAC]
+│      [SRVFI-Raws] Sounan Desuka [01][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [02][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [03][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [04][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [05][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [06][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [07][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [08][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [09][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [10][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [11][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sounan Desuka [12][2560×1440 HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sound! Euphonium [2160P HEVC-Main10 FLAC]
+│      [SRVFI-Raws] Sound! Euphonium [01][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [02][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [03][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [04][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [05][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [06][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [07][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [08][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [09][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [10][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [11][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [12][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [13][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [14][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP01][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP02][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP03][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP04][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP05][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP06][2160P HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sound! Euphonium [SP07][2160P HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Summer Time Rendering [2160p HEVC-10bit FLAC]
+│  │  [SRVFI-Raws] Summer Time Rendering S01E01 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E02 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E03 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E04 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E05 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E06 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E07 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E08 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E09 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E10 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E11 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E12 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E13 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E14 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E15 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E16 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E17 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E18 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E19 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E20 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E21 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E22 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E23 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E24 [2160p HEVC-10bit FLAC].mkv
+│  │  [SRVFI-Raws] Summer Time Rendering S01E25 [2160p HEVC-10bit FLAC].mkv
+│  │  
+│  └─NC OP&ED
+│          [SRVFI-Raws] Summer Time Rendering S01 NCED01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Summer Time Rendering S01 NCED02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Summer Time Rendering S01 NCOP01 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Summer Time Rendering S01 NCOP02 [2160p HEVC-10bit FLAC].mkv
+│          [SRVFI-Raws] Summer Time Rendering S01 NCOP03 [2160p HEVC-10bit FLAC].mkv
+│          
+├─[SRVFI-Raws] Sword Art Online Alicization War of Underworld [2160P HEVC Main10 FLAC]
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [00][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [01][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [02][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [03][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [04][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [05][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [06][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [07][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [08][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [09][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [10][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [11][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [12.5][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [12][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [13][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [14][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [15][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [16][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [17][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [18][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [19][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [20][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [21][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [22][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Alicization War of Underworld [23][2160P HEVC Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sword Art Online Alicization [2160P HEVC Main10 FLAC]
+│      [SRVFIRaws] Sword Art Online Alicization [01][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [02][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [03][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [04][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [05][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [06][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [07][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [08][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [09][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [10][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [11][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [12][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [13][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [14][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [15][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [16][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [17][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [18.5][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [18][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [19][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [20][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [21][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [22][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [23][2160P HEVC Main10 FLAC].mkv
+│      [SRVFIRaws] Sword Art Online Alicization [24][2160P HEVC Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sword Art Online Extra Edition [2160p HEVC-10bit FLAC]
+│      Sword.Art.Online.Extra.Edition.2013.2160p.HEVC.10bit.FLAC2.0-keprice@SRVFI.mkv
+│      
+├─[SRVFI-Raws] Sword Art Online Gun Gale Online [2160P HEVC Main10 FLAC]
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [01][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [02][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [03][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [04][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [05.5][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [05][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [06][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [07][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [08][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [09][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [10][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [11][2160P HEVC Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online Gun Gale Online [12][2160P HEVC Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sword Art Online I [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Sword Art Online I - 01 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 01 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 02 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 02 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 03 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 03 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 04 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 04 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 05 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 05 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 06 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 06 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 07 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 07 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 08 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 08 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 09 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 09 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 10 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 10 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 11 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 11 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 12 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 12 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 13 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 13 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 14 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 14 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 15 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 15 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 16 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 16 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 17 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 17 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 18 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 18 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 19 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 19 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 20 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 20 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 21 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 21 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 22 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 22 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 23 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 23 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 24 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 24 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online I - 25 [2160p HEVC-Main10 FLAC].chs.ass
+│      [SRVFI-Raws] Sword Art Online I - 25 [2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Sword Art Online II [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Sword Art Online II - 01 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 01 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 01 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 02 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 02 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 02 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 03 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 03 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 03 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 04 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 04 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 04 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 05 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 05 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 05 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 06 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 06 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 06 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 07 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 07 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 07 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 08 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 08 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 08 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 09 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 09 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 09 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 10 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 10 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 10 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 11 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 11 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 11 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 12 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 12 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 12 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 13 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 13 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 13 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 14 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 14 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 14 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 14.5 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 14.5 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 14.5 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 15 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 15 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 15 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 16 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 16 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 16 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 17 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 17 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 17 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 18 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 18 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 18 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 19 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 19 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 19 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 20 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 20 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 20 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 21 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 21 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 21 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 22 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 22 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 22 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 23 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 23 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 23 [HEVC Main10 2160p FLAC].mkv
+│      [SRVFI-Raws] Sword Art Online II - 24 [2160p HEVC-Main10 FLAC].DMG-chs.ass
+│      [SRVFI-Raws] Sword Art Online II - 24 [2160p HEVC-Main10 FLAC].DMG-cht.ass
+│      [SRVFI-Raws] Sword Art Online II - 24 [HEVC Main10 2160p FLAC].mkv
+│      
+├─[SRVFI-Raws] Sword Art Online Ordinal Scale [2160P HEVC Main10 DTS-HD MA]
+│      Sword.Art.Online.Ordinal.Scale.2017.2160p.HEVC.10bit.DTS-HD.MA5.1-keprice@SRVFI.mkv
+│      
+├─[SRVFI-Raws] Sword Art Online the Movie Progressive Scherzo of Deep Night [2160P HEVC Main10 TrueHD 7.1]
+│      [SRVFI-Raws] Sword Art Online the Movie Progressive Scherzo of Deep Night [2160P HEVC Main10 TrueHD 7.1].mkv
+│      
+├─[SRVFI-Raws] Tamayura [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Tamayura Hitotose E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Hitotose E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura More Aggressive E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura OVA E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura OVA E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura OVA E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura OVA E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Sotsugyo Shashin E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Sotsugyo Shashin E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Sotsugyo Shashin E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tamayura Sotsugyo Shashin E04 [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Tari Tari [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Tari Tari S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCED04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCEDOVA [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Tari Tari S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] The Future Diary [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] The Future Diary S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E05 Omake [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E10 Omake [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E13 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E14 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E15 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E16 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E17 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E18 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E19 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E20 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E21 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E22 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E23 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E24 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E25 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E26 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] The Future Diary S01E27 (OVA) [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] The Memories Of Phantasm [2160p HEVC-10bit FLAC]
+│      幻想万華鏡 S01E01-春雪異変の章-東方妖々夢 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E02-紅霧異変の章-前編-東方紅魔郷 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E03-紅霧異変の章-中編-東方紅魔郷 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E04-紅霧異変の章-後編-東方紅魔郷 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E05-花の異変の章-前編-東方花映塚 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E06-花の異変の章-後編-東方花映塚 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E07-巨大妖怪伝説の章-東方非想天則 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E08-永夜異変の章-前編-東方永夜抄 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E09-永夜異変の章-中編-東方永夜抄 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E10-永夜異変の章-後編1-東方永夜抄 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡 S01E11-永夜異変の章-後編2-東方永夜抄 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡-永夜異変の章-東方永夜抄 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡-紅霧異変の章-東方紅魔郷 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      幻想万華鏡-花の異変の章-東方花映塚 [2160p HEVC-10bit FLAC][SRVFI-Raws].mkv
+│      
+├─[SRVFI-Raws] To Every You I have Loved Before + To Me the One Who Loved You [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] To Every You I have Loved Before [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] To Me the One Who Loved You [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Toaru Kagaku no Railgun S1 [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 01 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 02 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 03 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 04 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 05 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 06 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 07 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 08 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 09 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 10 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 11 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 12 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 13 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 14 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 15 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 16 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 17 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 18 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 19 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 20 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 21 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 22 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 23 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - 24 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun - OVA [2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Toaru Kagaku no Railgun S2 [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 01 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 02 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 03 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 04 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 05 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 06 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 07 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 08 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 09 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 10 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 11 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 12 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 13 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 14 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 15 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 16 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 17 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 18 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 19 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 20 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 21 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 22 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 23 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - 24 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun S - OVA [2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Toaru Kagaku no Railgun S3 [HEVC Main10 2160p FLAC]
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 01 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 02 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 03 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 04 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 05 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 06 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 07 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 08 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 09 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 10 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 11 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 12 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 13 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 14 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 15 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 16 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 17 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 18 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 19 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 20 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 21 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 22 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 23 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 24 [2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Toaru Kagaku no Railgun T - 25 [2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Uma Musume Pretty Derby [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Uma Musume Pretty Derby [01][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [02][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [03][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [04][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [05][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [06][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [07][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [08][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [09][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [10][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [11][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [12][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [13][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [14(OVA01)][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [15(OVA02)][2160p HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Uma Musume Pretty Derby [16(OVA03)][2160p HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Violet Evergarden Eternity and the Auto Memory Doll [BDrip 2160p HEVC Main10 TrueHD]
+│      Violet.Evergarden.Eternity.and.the.Auto.Memory.Doll.2019.2160p.HEVC.10bit.TrueHD5.1.SRVFI-Raws.mkv
+│      
+├─[SRVFI-Raws] Violet Evergarden [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Violet Evergarden [01] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [02] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [03] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [04] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [05] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [06] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [07] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [08] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [09] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [10] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [11] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [12] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [13] [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Violet Evergarden [Extra Episode] [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Vivy -Fluorite Eye's Song- [2160P HEVC-10bit FLAC]
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [01] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [02] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [03] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [04] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [05] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [06] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [07] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [08] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [09] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [10] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [11] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [12] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [13] [2160P HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Vivy -Fluorite Eye's Song- [SP] [2160P HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] White Album [2560×1440 HEVC-Main10 FLAC]
+│      [SRVFI-Raws] White Album [01][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [02][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [03][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [04][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [05][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [06][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [07][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [08][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [09][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [10][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [11][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [12][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [13][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [14][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [16][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [17][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [18][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [19][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [20][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [21][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [22][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [23][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [24][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [25][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] White Album [26][2560×1440 HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Ya Boy Kongming [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Ya Boy Kongming S01E01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E06 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E07 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E08 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E09 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E10 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E11 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01E12 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01NCED01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01NCED02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01NCED03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Ya Boy Kongming S01NCOP [2160p HEVC-10bit FLAC].mkv
+│      
+├─[SRVFI-Raws] Yakusoku no Neverland [2560×1440 HEVC-Main10 FLAC]
+│      [SRVFI-Raws] Yakusoku no Neverland [01][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [02][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [03][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [04][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [05][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [06][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [07][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [08][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [09][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [10][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [11][2560×1440 HEVC-Main10 FLAC].mkv
+│      [SRVFI-Raws] Yakusoku no Neverland [12][2560×1440 HEVC-Main10 FLAC].mkv
+│      
+├─[SRVFI-Raws] Yosuga no Sora [2160p HEVC-10bit FLAC]
+│      [SRVFI-Raws] Yosuga no Sora - 01 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Amatsume Akira - 02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Amatsume Akira - 03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Amatsume Akira - 04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Creditless Ending [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Creditless Opening [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Kasugano Sora - 02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Kasugano Sora - 03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Kasugano Sora - 04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Kasugano Sora - 05 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Migiwa Kazuha - 02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Migiwa Kazuha - 03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Migiwa Kazuha - 04 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Yorihime Nao - 02 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Yorihime Nao - 03 [2160p HEVC-10bit FLAC].mkv
+│      [SRVFI-Raws] Yosuga no Sora - Yorihime Nao - 04 [2160p HEVC-10bit FLAC].mkv
+│      
+└─[SRVFI-Raws] Your Lie in April [HEVC Main10 2160p FLAC]
+        [SRVFI-Raws] Your Lie in April - 01 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 01 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 02 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 02 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 03 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 03 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 04 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 04 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 05 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 05 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 06 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 06 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 07 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 07 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 08 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 08 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 09 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 09 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 10 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 10 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 11 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 11 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 12 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 12 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 13 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 13 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 14 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 14 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 15 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 15 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 16 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 16 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 17 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 17 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 18 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 18 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 19 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 19 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 20 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 20 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 21 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 21 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - 22 [HEVC Main10 2160p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - 22 [HEVC Main10 2160p FLAC].mkv
+        [SRVFI-Raws] Your Lie in April - OAD [HEVC Main10 1440p FLAC].Haruhana_Fansub.ass
+        [SRVFI-Raws] Your Lie in April - OAD [HEVC Main10 1440p FLAC].mkv
+        
