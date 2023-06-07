@@ -44,7 +44,7 @@ def rename(fi):
 
     # - NN -> [NN]
     pos = fi.find('- ')
-    if pos != -1:
+    if pos != -1 and fi[pos + 2: pos + 4].isnumeric():
         fi = fi.replace(fi[pos: pos + 4], fi[pos + 2: pos + 4])
 
     e_list = ['NCOP', 'NCED', 'OVA', 'SP']
