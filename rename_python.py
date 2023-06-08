@@ -48,26 +48,25 @@ def rename(fi):
         fi = fi.replace(fi[pos: pos + 4], f'[{fi[pos + 2: pos + 4]}]')
 
     e_list = ['NCOP', 'NCED', 'OVA', 'SP']
-    pos = -1
+
     for e in e_list:
         pos = fi.find(e)
         if pos != -1:
+            # eN -> eNN
+            if fi[pos + len(e): pos + len(e) + 1].isnumeric() and not fi[pos + len(e): pos + len(e) + 2].isnumeric():
+                fi = fi.replace(fi[pos: pos + len(e) + 1],
+                                '{}{:>02d}'.format(e, int(fi[pos + len(e): pos + len(e) + 1])))
+
+            if fi[pos - 1] != '[':
+                # e -> [e]
+                if not fi[pos + 1 + len(e)].isnumeric():
+                    fi = fi.replace(e, f'[{e}]')
+
+                # eNN -> [e NN]
+                if fi[pos + len(e): pos + len(e) + 2].isnumeric():
+                    fi = fi.replace(fi[pos: pos + len(e) + 2],
+                                    f'[{fi[pos: pos + len(e)]} {fi[pos + len(e): pos + len(e) + 2]}]')
             break
-
-    if pos != -1:
-        # eN -> eNN
-        if fi[pos + len(e): pos + len(e) + 1].isnumeric() and not fi[pos + len(e): pos + len(e) + 2].isnumeric():
-            fi = fi.replace(fi[pos: pos + len(e) + 1], '{}{:>02d}'.format(e, int(fi[pos + len(e): pos + len(e) + 1])))
-
-        if fi[pos - 1] != '[':
-            # e -> [e]
-            if not fi[pos + 1 + len(e)].isnumeric():
-                fi = fi.replace(e, f'[{e}]')
-
-            # eNN -> [e NN]
-            if fi[pos + len(e): pos + len(e) + 2].isnumeric():
-                fi = fi.replace(fi[pos: pos + len(e) + 2],
-                                f'[{fi[pos: pos + len(e)]} {fi[pos + len(e): pos + len(e) + 2]}]')
 
     # e]END -> [e] END
     pos = fi.find(e)
