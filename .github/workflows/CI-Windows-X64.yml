@@ -1,0 +1,66 @@
+name: CI-Windows-X64
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+    paths-ignore:
+      - README.md
+      - LICENSE
+    
+  pull_request:
+    branches: [ "main" ]
+    paths-ignore:
+      - README.md
+      - LICENSE
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build-windows-rename:
+    runs-on: windows-2019
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install requirements and installer
+        run: |
+          pip install pyinstaller
+          
+      - name: Run pyinstaller
+        run: |
+          python -m PyInstaller -F -n SRVFI-Rename rename_python.py
+                    
+      - uses: actions/upload-artifact@v3
+        with:
+          name: SRVFI-Rename
+          path: dist
+          
+  build-windows-withdraw:
+    runs-on: windows-2019
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install requirements and installer
+        run: |
+          pip install pyinstaller
+
+      - name: Run pyinstaller
+        run: |
+          python -m PyInstaller -F -n SRVFI-Withdraw withdraw_python.py
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: SRVFI-Withdraw
+          path: dist
