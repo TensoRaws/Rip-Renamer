@@ -129,7 +129,7 @@ with open(log, 'w+') as fp:
     for src in files:
         bn = os.path.basename(src)  # 得到 文件名.扩展名 进行重命名识别
         # 不对log和俩脚本进行重命名识别
-        if bn.find('rename_python') != -1 or bn.find('withdraw_python') != -1 or bn.find(log) != -1:
+        if bn.find('rename_python') != -1 or bn.find('withdraw_python') != -1 or bn.find('SRVFI-Rename') != -1 or bn.find('SRVFI-Withdraw') != -1 or bn.find(log) != -1:
             continue
 
         r = rename(bn)  # 重命名后的结果
