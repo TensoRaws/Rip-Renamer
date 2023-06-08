@@ -125,6 +125,7 @@ def search(x, out=[]):
 # 去掉开头的 .\\ 以让shutil识别相对文件路径
 files = [f[2:] for f in search(os.curdir) if os.path.isfile(f)]
 
+
 with open(log, 'w+') as fp:
     for src in files:
         bn = os.path.basename(src)  # 得到 文件名.扩展名 进行重命名识别
