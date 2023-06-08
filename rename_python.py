@@ -68,7 +68,7 @@ def rename(fi):
                                     f'[{fi[pos: pos + len(e)]} {fi[pos + len(e): pos + len(e) + 2]}]')
             break
 
-    # e]END -> [e] END
+    # [e]END -> [e] END
     pos = fi.find(e)
     if pos != -1:
         end = pos
