@@ -18,7 +18,8 @@ def rename(fi):
                'S01': '',
                'HEVC-Main10': 'HEVC-10bit',
                'HEVC Main10': 'HEVC-10bit',
-               'HEVC 10bit': 'HEVC-10bit'}
+               'HEVC 10bit': 'HEVC-10bit',
+               '[SRVFIRaws]': '[SRVFI-Raws]'}
     for k, v in wo_dict.items():
         fi = fi.replace(k, v)
 
