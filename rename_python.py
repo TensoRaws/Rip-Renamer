@@ -47,6 +47,14 @@ def rename(fi):
     if pos != -1 and fi[pos + 2: pos + 4].isnumeric():
         fi = fi.replace(fi[pos: pos + 4], f'[{fi[pos + 2: pos + 4]}]')
 
+    # NN -> [NN]
+    pos = 0
+    while pos != len(fi) - 1:
+        if fi[pos-1] == ' ' and fi[pos+2] == ' ' and fi[pos:pos+2].isnumeric():
+            fi = f'{fi[:pos]}[{fi[pos:pos+2]}]{fi[pos+2:]}'
+            break
+        pos += 1
+
     e_list = ['NCOP', 'NCED', 'OVA', 'SP']
 
     for e in e_list:
@@ -101,6 +109,22 @@ def rename(fi):
     while pos != len(fi) - 5:
         if fi[pos - 4: pos].isnumeric() and fi[pos + 1: pos + 5].isnumeric():
             fi = fi.replace(fi[pos - 4: pos + 5], f'{fi[pos + 1: pos + 5]}p')
+            break
+        pos += 1
+
+    # NNNNxCCC -> CCCp
+    pos = 4
+    while pos != len(fi) - 4:
+        if fi[pos - 4: pos].isnumeric() and fi[pos + 1: pos + 4].isnumeric():
+            fi = fi.replace(fi[pos - 4: pos + 4], f'{fi[pos + 1: pos + 4]}p')
+            break
+        pos += 1
+
+    # NNNxCCC -> CCCp
+    pos = 3
+    while pos != len(fi) - 4:
+        if fi[pos - 3: pos].isnumeric() and fi[pos + 1: pos + 4].isnumeric():
+            fi = fi.replace(fi[pos - 3: pos + 4], f'{fi[pos + 1: pos + 4]}p')
             break
         pos += 1
 
