@@ -77,7 +77,7 @@ jobs:
           
       - name: Install requirements and installer
         run: |
-          pip install pyinstaller
+          pip install pyinstaller pymediainfo loguru
           
       - name: Run pyinstaller
         run: |
