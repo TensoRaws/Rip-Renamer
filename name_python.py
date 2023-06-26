@@ -19,6 +19,9 @@ def getinfo(file):
                 max_a_bitrate = eval(l_info[i + 2])
                 start = l_info[i + 3].rfind(',') + 2
                 a_codec = l_info[i + 3][start if start != -1 else 0:]
+                if 'FLAC' in a_codec:
+                    a_codec = 'FLAC'
+                    max_a_bitrate = 10e10
 
     return height, depth, v_codec, a_codec
 
